@@ -1,0 +1,6 @@
+# See the `README.md` in the directory above this for why this crate exists
+
+[package]
+name = "winapi-x86_64-pc-windows-gnu"
+version = "0.3.99"
+authors = ["The Rust Project Developers"]
